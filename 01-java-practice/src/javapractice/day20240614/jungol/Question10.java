@@ -1,4 +1,4 @@
-package javapractice.day20240614;
+package javapractice.day20240614.jungol;
 
 import java.util.Scanner;
 

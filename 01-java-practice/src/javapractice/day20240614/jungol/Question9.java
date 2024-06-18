@@ -1,4 +1,4 @@
-package javapractice.day20240614;
+package javapractice.day20240614.jungol;
 
 //두 정수를 입력받아 10 15
 //첫 번째 수는 전치증가연산자 사용

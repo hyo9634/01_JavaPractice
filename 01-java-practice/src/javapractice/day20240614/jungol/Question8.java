@@ -1,4 +1,4 @@
-package javapractice.day20240614;
+package javapractice.day20240614.jungol;
 
 //직사각형 가로와 세로의 길이를 정수형 값으로 입력받은 후
 //가로길이는 5증가
