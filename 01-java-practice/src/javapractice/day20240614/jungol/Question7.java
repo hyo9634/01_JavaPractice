@@ -1,4 +1,4 @@
-package javapractice.day20240614;
+package javapractice.day20240614.jungol;
 //두 정수를 입력 받아서
 //나눈 몫과 나머지를
 //정해진 형식으로 출력
